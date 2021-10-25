@@ -24,4 +24,4 @@
 ### Contato
 - <a href="https://www.linkedin.com/in/marcos-cantarutti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 - <a href = "mailto:marcossandim21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-- Meu CV  <a href = "https://www.cvkeep.com/cv/51a859f44bd5362a9683fdf6fe03a8bb" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4337/4337299.png" target="_blank" width="20"> </a>
+- Meu CV  <a href = "https://www.cvkeep.com/cv/marcoscantarutti" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/4337/4337299.png" target="_blank" width="20"> </a>
