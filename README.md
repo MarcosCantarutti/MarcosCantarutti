@@ -3,7 +3,7 @@
 - Em busca de novas oportunidades no desenvolvimento Front End <3
 - Atualmente sou estudante de ADS pela UNINTER
 - Gosto de aprender sempre que possivel, porém nas horas vagas eu curto alguns joguinhos e assistir animes =D
-- Comecei recentemente a explorar o React! No momento estou participando do Ignite da Rocketseat :rocket: <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="20">
+- Comecei recentemente a explorar o React!  :rocket: <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="20">
 
 
 ## Linguagens e Ferramentas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
