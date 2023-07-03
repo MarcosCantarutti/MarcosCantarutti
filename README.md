@@ -1,9 +1,10 @@
 # Olá pessoal! Meu nome é Marcos Cantarutti =) 👋
 
-- Em busca de novas oportunidades no desenvolvimento Front End <3
-- Atualmente sou estudante de ADS pela UNINTER
-- Gosto de aprender sempre que possivel, porém nas horas vagas eu curto alguns joguinhos e assistir animes =D
-- Comecei recentemente a explorar o VueJS e React!  :rocket: 
+- Apaixonado pelo desenvolvimento Front End <3
+- Atualmente sou graduado de ADS pela UNINTER
+- Gosto de aprender sempre que possivel, porém nas horas vagas eu curto alguns joguinhos :D
+- Costumo sempre estar explorando o VueJS e o React!  :rocket:
+
 
 
 ## Linguagens e Ferramentas <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
