@@ -1,9 +1,9 @@
 # Olá pessoal! Meu nome é Marcos Cantarutti =) 👋
 
-- Apaixonado pelo desenvolvimento Front End <3
-- Atualmente sou graduado de ADS pela UNINTER
-- Gosto de aprender sempre que possivel, porém nas horas vagas eu curto alguns joguinhos :D
-- Costumo sempre estar explorando o VueJS e o React!  :rocket:
+- Atualmente trabalho com PHP e Mysql
+- Sou graduado em Análise e Desenvolvimento de Sistemas pela UNINTER
+- Gosto de estudar sempre que possivel, porém nas horas vagas eu curto alguns joguinhos :D
+- Costumo sempre estar explorando o universo do frontend com VueJS e React!  :rocket:
 
 
 
